@@ -1,0 +1,13 @@
+.app {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #111;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.app h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
